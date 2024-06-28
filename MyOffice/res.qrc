@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/230.bmp</file>
+        <file>images/516.bmp</file>
+        <file>images/132.bmp</file>
+        <file>images/506.bmp</file>
+        <file>images/3.ico</file>
+        <file>images/804.bmp</file>
+        <file>images/510.bmp</file>
+        <file>images/512.bmp</file>
+        <file>images/514.bmp</file>
+        <file>images/500.bmp</file>
+        <file>images/502.bmp</file>
+        <file>images/504.bmp</file>
+        <file>images/100.bmp</file>
+        <file>images/104.bmp</file>
+        <file>images/122.bmp</file>
+        <file>images/200.bmp</file>
+        <file>images/202.bmp</file>
+        <file>images/204.bmp</file>
+        <file>images/206.bmp</file>
+        <file>images/208.bmp</file>
+        <file>images/2.ico</file>
+        <file>images/704.bmp</file>
+        <file>images/706.bmp</file>
+        <file>images/Doc.ico</file>
+        <file>images/Excel.ico</file>
+        <file>images/splashScreen.jpg</file>
+        <file>images/508.bmp</file>
+        <file>images/back1.jpg</file>
+        <file>images/append.bmp</file>
+        <file>images/insert.bmp</file>
+        <file>images/delete.bmp</file>
+        <file>images/icon.bmp</file>
+        <file>images/iconWord.bmp</file>
+        <file>images/iconExcel.bmp</file>
+    </qresource>
+</RCC>
